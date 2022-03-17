@@ -1,3 +1,5 @@
+#this program is an example of how I initially uploaded all of my webscraped data to my FantasyFootball Database
+
 import csv
 import sqlite3
 
