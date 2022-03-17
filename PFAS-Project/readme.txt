@@ -1,1 +1,5 @@
-Here are tools for the PFAS project.
+Polyfluoroalkyl Substances (PFAS) are a class of highly persistent chemicals that were used in the mid to late 1900's in fire fighting foam to fight hydrocarbon fires. They are also used in water repellant applications, cosmetics, anti-stick pans, and food packing. More recently its come to light how potent and hazardous these chemicals are to human and health at even the lowest concentrations and due to their persistent/resilient nature, they are found ubiquitously in the environment, even in regions with human presence.
+
+As these are emerging contaminants, there are few regulations in place to protect human health. Additionally, we are finding legal action being taken against synthesizers of PFAS, manufacturers of products that us them, and municipalities or sites that used PFAS-containing fire fighting foam. Thus, there is a need to analyze how PFAS moves in the environment and analyze composition patterns to determine orginating source.
+
+To meet this need we can leverage the abundance of data that is becoming available as several states have begun sampling for PFAS chemicals in public water supply and monitoring wells and begun publishing investigative data reports.
