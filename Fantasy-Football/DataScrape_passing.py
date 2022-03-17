@@ -1,3 +1,5 @@
+#this is an example of a scraping program that goes to a football data site and grabs all of the passing (quarterback) data for the specified years and outputs a CSV
+
 import pandas as pd
 from bs4 import BeautifulSoup
 import requests
