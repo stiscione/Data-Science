@@ -19,11 +19,13 @@ Notebooks can be run using jupyter notebook.
 
 <h3>Machine Learning</h3>
 
-- [A-B Testing](https://github.com/stiscione/Portfolio/blob/main/A-B%20Testing%20Example.ipynb):
 
-<h3>Exploratory Data Analysis (Kaggle)</h3>
+
+<h3>Exploratory Data Analysis</h3>
 
 - Titanic Dataset: 
+
+- [A-B Testing](https://github.com/stiscione/Portfolio/blob/main/A-B%20Testing%20Example.ipynb): Analysis of A-B testing data from a mobile game to improve player retention (Kaggle).
 
 
 You can reach me at stiscione@outlook.com to chat about my work portfolio, work opportunities, etc.
