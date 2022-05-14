@@ -7,6 +7,7 @@ Notebooks can be run using jupyter notebook.
 <h2>Contents</h2>
 
 <h3>Projects</h3>
+
 #### [PFAS Project](https://github.com/stiscione/Portfolio/tree/main/PFAS-Project):
 - PFAS are a class of chemicals that are emerging contaminants of concern. This project attempts to create a centralized database of all publically available environmental PFAS data to create models predicting PFAS contamination in drinking water resources and industrial sites. This data will also be used to classify specific PFAS chemical fingerprint and analyze trends in PFAS contamination and regulation. 
 
@@ -17,9 +18,12 @@ Notebooks can be run using jupyter notebook.
 - A project scraping all available National Football League data to create a centralized database and exploratory data analysis and development of predictive models to inform fantasy football decision making.
 
 <h3>Machine Learning</h3>
+
 - [A-B Testing](https://github.com/stiscione/Portfolio/blob/main/A-B%20Testing%20Example.ipynb):
 
 <h3>Exploratory Data Analysis (Kaggle)</h3>
+
+- Titanic Dataset: 
 
 
 You can reach me at stiscione@outlook.com to chat about my work portfolio, work opportunities, etc.
