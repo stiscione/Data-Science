@@ -17,13 +17,7 @@ Notebooks can be run using jupyter notebook.
 #### [Fantasy Football](https://github.com/stiscione/Portfolio/tree/main/Fantasy-Football):
 - A project scraping all available National Football League data to create a centralized database and exploratory data analysis and development of predictive models to inform fantasy football decision making.
 
-<h3>Machine Learning</h3>
-
-
-
 <h3>Exploratory Data Analysis</h3>
-
-- Titanic Dataset: 
 
 - [A-B Testing](https://github.com/stiscione/Portfolio/blob/main/A-B%20Testing%20Example.ipynb): Analysis of A-B testing data from a mobile game to improve player retention (Kaggle).
 
